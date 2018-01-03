@@ -41,6 +41,7 @@
   "dependencies": {
     "agenda": "github:c45tr0/agenda#db-adapters",
     "env-cmd": "^5.0.0",
+    "pg": "^6.4.2",
     "sequelize": "github:c45tr0/sequelize#mysql_json_and_evict"
   },
   "devDependencies": {
